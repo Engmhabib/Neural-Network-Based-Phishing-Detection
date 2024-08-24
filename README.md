@@ -36,12 +36,6 @@ The project followed these key steps:
 
 The project highlights the potential of neural networks in enhancing phishing detection but also indicates that simpler machine learning models may still offer competitive performance depending on the application context. Continuous innovation in cybersecurity techniques remains essential as cyber threats evolve.
 
-## Contributions
-
-- **Alex Weber:** Dataset selection, preliminary and final presentation slides, final report, and project presentation.
-- **Chandana Sowmya Yelamancheli:** Final report, final presentation slides, and project presentation.
-- **Mohamed Habib Agrebi:** Exploratory data analysis, visualizations, LSTM model, final report, and project presentation.
-- **Teresa Ortyl:** Preliminary presentation slides, BERT/Logistic Regression models, final report, and project presentation.
 
 ## How to Use
 
