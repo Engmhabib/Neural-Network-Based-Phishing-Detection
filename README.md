@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the final project for the course [Course Name], focused on exploring how well neural networks, specifically Long Short-Term Memory (LSTM) and Bidirectional Encoder Representations from Transformers (BERT), can detect phishing attempts in emails. The project compares these advanced neural networks with traditional machine learning methods like logistic regression to assess their effectiveness in cybersecurity.
+This repository contains a project, that focuses on exploring how well neural networks, specifically Long Short-Term Memory (LSTM) and Bidirectional Encoder Representations from Transformers (BERT), can detect phishing attempts in emails. The project compares these advanced neural networks with traditional machine learning methods like logistic regression to assess their effectiveness in cybersecurity.
 
 ## Project Summary
 
